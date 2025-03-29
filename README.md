@@ -1,6 +1,6 @@
 ## Hi there 👋
-I'm a student at Hive Helsinki
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=hieutrpham)](https://github.com/hieutrpham/github-readme-stats)
+
+[![Hieu's GitHub stats](https://github-readme-stats.vercel.app/api?username=hieutrpham)]
 <!--
 **hieutrpham/hieutrpham** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
