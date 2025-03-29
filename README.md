@@ -1,6 +1,6 @@
 ## Hi there 👋
-
-(https://github-readme-stats.vercel.app/api?username=hieutrpham)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hieutrpham&show_icons=true&theme=tokyonight)](https://github.com/hieutrpham/github-readme-stats)
+![Hieu's GitHub stats](https://github-readme-stats.vercel.app/api?username=hieutrpham&show_icons=true&theme=tokyonight)
 <!--
 **hieutrpham/hieutrpham** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
