@@ -1,4 +1,6 @@
 ## Hi there 👋
+I'm a student at [Hive Helsinki](https://www.hive.fi/en/).
+I'm passionate about tech and interested in learning new things 😄
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hieutrpham&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
