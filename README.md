@@ -25,3 +25,5 @@ Hi My name is Hieu. I'm a data analyst transitioning to software developer
 ### Others
 
 When I'm not coding, you'll find me running the streets of Helsinki 🏃‍➡️. I've had seven marathons under my belts including New York and Chicago marathons plus countless other shorter races from 5k, 10k to half marathons.
+
+[My race history](https://www.athlinks.com/athletes/253850279/results)
