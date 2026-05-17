@@ -13,7 +13,7 @@ Hi My name is Hieu. I'm a data analyst transitioning to software developer
 
 | what | why | how |
 |------|------|------|
-| [SuperShell](https://github.com/hieutrpham/supershell) | Learn Unix processes and collaboration with git | Implemented tokenizer, parser and execution pipeline for a shell interpreter |
+| [SuperShell](https://github.com/hieutrpham/supershell) | Learn Unix processes and collaboration using git | Implemented tokenizer, parser and execution pipeline for a shell interpreter |
 | [Philosophers](https://github.com/hieutrpham/diner_philo) | Learn concurrency and parallelism in C | Solving the classic dining philosophers problem using POSIX multithread and multiprocess architecture |
 | [Cfit](https://github.com/hieutrpham/cfit) | Exploring the Garmin FitSDK to learn about fitness data | Analyzing and visualizing fitness data with FitSDK and Raylib |
 
