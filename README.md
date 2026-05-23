@@ -6,7 +6,7 @@ Hi My name is Hieu. I'm a data analyst transitioning to software developer
 | what | why | how |
 |------|------|------|
 |[Huffman encoding](https://github.com/hieutrpham/huff)| Practice fundamental data structures and algorithm | Implemented Huffman encoding and decoding to compress and decompress files|
-|[Raycaster game](https://github.com/hieutrpham/raycaster)| Learn how graphics works in games | Implemented raycasting algorithm used in Wolfeinstein 3D|
+|[Angry Cubes](https://github.com/hieutrpham/raycaster)| Learn how graphics works in games | Implemented raycasting algorithm used in Wolfeinstein 3D|
 |[Web server](https://github.com/hieutrpham/webserver)| Learn how a web server work | Implement a web server from scratch using C++ |
 
 ### Past Projects
@@ -24,6 +24,6 @@ Hi My name is Hieu. I'm a data analyst transitioning to software developer
 
 ### Others
 
-When I'm not coding, you'll find me running the streets of Helsinki 🏃‍➡️. I've had seven marathons under my belts including New York and Chicago marathons plus countless other shorter races from 5k, 10k to half marathons.
+When I'm not coding, you'll find me running the streets of Helsinki 🏃‍➡️. I've had seven marathons under my belt including New York and Chicago marathons plus countless other shorter races from 5k, 10k to half marathons.
 
 [My race history](https://www.athlinks.com/athletes/253850279/results)
